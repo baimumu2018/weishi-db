@@ -7,7 +7,7 @@ import os
 input_file = r'/Users/baimumu/Desktop/weishi-db/weishi.txt'      # 你的经文TXT
 output_prefix = r'/Users/baimumu/Desktop/weishi-db/weishi_part'   # 输出的JSON
 config_file = r'/Users/baimumu/Desktop/weishi-db/weishi_config.json'  # 🆕 新增：索引配置文件名
-index_file = r'/Users/baimumu/Desktop/weishi-db/weishi-dbweishi_index.json'  # 🆕 新增：索引文件名
+index_file = r'/Users/baimumu/Desktop/weishi-db/weishi_index.json'  # 🆕 新增：索引文件名
 
 chunk_size = 3000
 
